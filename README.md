@@ -1,0 +1,1 @@
+Comprobé editar y eliminar haciendo uso de los botones "editar seleccionado" y "eliminar seleccionado" luego cerré el programa y verifiqué que se actualizara correctamente. Para comprobar la ruta, busqué en mis archivos la ubicación que sale en el programa y encontré el txt donde se almacenan los datos.
